@@ -1,0 +1,111 @@
+{
+    "CourseData":[
+        {
+            "name":"HTML fundamentals",
+            "instructors":["Parv"],
+            "img_urls":"https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg",
+            "hours":3.5,
+            "rating":4,
+            "views":"354k",
+            "url":"html",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+            "curriculum":[
+                "Introduction", "Basics", "Advance"
+            ]
+        },
+        {
+            "name":"CSS fundamentals",
+            "instructors":["Parv"],
+            "img_urls":"https://miro.medium.com/max/1200/1*OFsc0SD55jhi8cjo7aCA4w.jpeg",
+            "hours":3.5,
+            "rating":4,
+            "views":"354k",
+            "url":"css",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+            "curriculum":[
+                "Introduction", "Basics", "Advance"
+            ]
+
+        },
+        {
+            "name":"JS fundamentals",
+            "instructors":["Parv"],
+            "img_urls":"https://blog.eduonix.com/wp-content/uploads/2014/02/Learning-JavaScript-Fundamentals.jpg",
+            "hours":3.5,
+            "rating":4,
+            "views":"354k",
+            "url":"js",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+            "curriculum":[
+                "Introduction", "Basics", "Advance"
+            ]
+
+
+        },
+        {
+            "name":"React fundamentals",
+            "instructors":["Parv"],
+            "img_urls":"https://miro.medium.com/max/1360/1*C4yGTDSLSz86TCakrza2HQ.jpeg",
+            "hours":3.5,
+            "rating":4,
+            "views":"354k",
+            "url":"react",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+            "curriculum":[
+                "Introduction", "Basics", "Advance"
+            ]
+
+
+        },
+        {
+            "name":"Node + Express fundamentals",
+            "instructors":["Parv"],
+            "img_urls":"https://miro.medium.com/max/800/1*y7CChnqXIXzC4ZAJ_qeWWQ.jpeg",
+            "hours":3.5,
+            "rating":4,
+            "views":"354k",
+            "url":"nodexpress",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+            "curriculum":[
+                "Introduction", "Basics", "Advance"
+            ]
+
+
+        },
+        {
+            "name":"MongoDB fundamentals",
+            "instructors":["Parv"],
+            "img_urls":"https://www.freecodecamp.org/news/content/images/size/w2000/2020/10/node-mongodb-fundamentals.png",
+            "hours":3.5,
+            "rating":4,
+            "views":"354k",
+            "url":"mongo",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+            "curriculum":[
+                "Introduction", "Basics", "Advance",
+                "Introduction", "Basics", "Advance",
+                "Introduction", "Basics", "Advance",
+                "Introduction", "Basics", "Advance",
+                "Introduction", "Basics", "Advance"
+            ]
+
+
+        },
+        {
+            "name":"SQL fundamentals",
+            "instructors":["Parv"],
+            "img_urls":"https://blog.sqlauthority.com/wp-content/uploads/2021/04/SQLfundamentals-800x305.jpg",
+            "hours":3.5,
+            "rating":4,
+            "views":"354k",
+            "url":"sql",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+            "curriculum":[
+                "Introduction", "Basics", "Advance"
+            ]
+
+
+        }
+        
+    ]
+}
